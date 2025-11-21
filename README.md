@@ -19,15 +19,7 @@ REQUISITOS (INSTALACIÓN):
 Para ejecutar este script, son necesarias las siguientes librerías de Python:
     pip install numpy matplotlib imageio
 
-USO:
-1.  Guarda el código como 'simulacion_electron.py'.
-2.  Ejecuta desde la terminal:
-        python simulacion_electron.py
-
 SALIDA:
 - Se genera un gráfico estático 3D.
 - Se genera un archivo de animación: 'trayectorias_electrones.gif'
 
-AUTOR: [Tu Nombre o Alias de GitHub]
-FECHA: [Fecha de Creación o Última Modificación]
-"""
